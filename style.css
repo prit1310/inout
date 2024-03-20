@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar{
+    height: 40px;
+    background-color: black;
+    font-size: 20px;
+}
+#logo{
+    color: #f08804;
+    font-size: 35px;
+}
+a{
+    margin-right: 170px;
+    text-decoration: none;
+}
+#navbar1{
+    background-color: wheat;
+    display: flex;
+    height: 40px;
+    width: 2300px;
+}
+#a1{
+    margin-right: 0px;
+}
+#a2{
+    margin-right: 0px;
+}
+#a3{
+    margin-right: 0px;
+}
+img{
+    height: 35px;
+}
+button{
+    color: #f08804;
+}
+#a4{
+    display: inline-block;
+    justify-content: space-between;
+}
